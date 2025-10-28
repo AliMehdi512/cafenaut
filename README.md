@@ -105,6 +105,18 @@ cafenaut/
 
 This project is open source and available under the [MIT License](LICENSE).
 
+**Copyright (c) 2025 Ali Mehdi**
+
+The MIT License allows others to:
+- ✅ Use your code commercially
+- ✅ Modify and distribute
+- ✅ Use privately
+- ✅ Include in proprietary software
+
+**Requirements:**
+- Include the original copyright notice
+- Include the license text
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/AliMehdi512/cafenaut/issues).
